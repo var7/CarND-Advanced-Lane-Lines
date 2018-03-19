@@ -128,7 +128,6 @@ The final output after passing an image through the pipeline outlined above is
 
 ### Pipeline (video)
 
-Here's the final video:
 [![Advanced Lane Finding](https://img.youtube.com/vi/qa55edKIEco/0.jpg)](https://www.youtube.com/watch?v=qa55edKIEco)
 
 ---
