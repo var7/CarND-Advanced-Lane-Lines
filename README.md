@@ -22,6 +22,6 @@ The pipeline works well on the given project video but performs poorly on the ch
 
 For further information refer the [writeup](https://github.com/var7/CarND-Advanced-Lane-Lines/blob/master/writeup.md) and [notebook](https://github.com/var7/CarND-Advanced-Lane-Lines/blob/master/detect_line.ipynb). 
 
-Have a look at the final [video](https://github.com/var7/CarND-Advanced-Lane-Lines/blob/master/avg-final-project_video_output.mp4)
-
+Here's the final video:
+[![Advanced Lane Finding](https://img.youtube.com/vi/qa55edKIEco/0.jpg)](https://www.youtube.com/watch?v=qa55edKIEco)
 
