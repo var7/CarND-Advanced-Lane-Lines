@@ -128,8 +128,8 @@ The final output after passing an image through the pipeline outlined above is
 
 ### Pipeline (video)
 
-
-Here's a [link to my video result](./avg-final-project_video_output.mp4)
+Here's the final video:
+[![Advanced Lane Finding](https://img.youtube.com/vi/qa55edKIEco/0.jpg)](https://www.youtube.com/watch?v=qa55edKIEco)
 
 ---
 
